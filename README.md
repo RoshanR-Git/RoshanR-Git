@@ -8,7 +8,7 @@ Aspiring Software Developer | Front-End Developer | SQL | Exploring Cloud Techno
 
 🔭 I'm Interested in **Software Development, Web Development, Databases, Cloud, and AI-Powered Applications**
 
-👨‍💻 All of my projects are available at: [https://github.com/RoshanR-Git?tab=repositories](https://github.com/RoshanR-Git?tab=repositories)
+👨‍💻 All of my projects are available at: [https://github.com/RoshanR-Git?tab=repositories](https://github.com/RoshanR-Git/RoshanR-Showcase)
 
 📫 How to reach me: **rroshan200431@gmail.com**
 
